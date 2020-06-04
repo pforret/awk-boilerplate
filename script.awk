@@ -4,7 +4,7 @@
 # STEP 3: write code after the 2nd XXXXXX line
 function set_program_data(){
 	SCRIPTNAME="script.awk"
-	SCRIPTVERSION="1.0.0"
+	SCRIPTVERSION="1.0.1"
 	SCRIPTAUTHOR="peter@forret.com"
 	SCRIPTPURPOSE="Read data file 1 and filter it into data file 2"
 	SCRIPTURL="https://github.com/pforret/awk-boilerplate"
