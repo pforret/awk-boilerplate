@@ -23,5 +23,9 @@ jobs:
     - uses: actions/checkout@v2
 
     # Runs a single command using the runners shell
-    - name: Run a one-line script
-      run: ./script.awk
+    - name: Check AWK version
+      run: awk --version
+
+    # Runs a single command using the runners shell
+    - name: Run through AWK
+      run: awk -f script.awk
