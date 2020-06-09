@@ -1,5 +1,5 @@
 # awk-boilerplate
-![AWK CI](https://github.com/pforret/awk-boilerplate/actions)
+![AWK CI](https://github.com/pforret/awk-boilerplate/workflows/AWK%20CI/badge.svg)
 
 A starting point for larger AWK scripts
 
